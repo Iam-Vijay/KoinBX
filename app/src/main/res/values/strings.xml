@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KoinBX</string>
+    <string name="title_home">Home</string>
+    <string name="title_market">Markets</string>
+    <string name="title_trade">Trade</string>
+    <string name="title_orders">Orders</string>
+    <string name="title_wallet">Wallet</string>
+    <string name="logoimage">logoimage</string>
+    <string name="top_performers">Top Performers</string>
+    <string name="tabslayout">tabslayout</string>
+</resources>

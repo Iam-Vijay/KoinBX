@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575313170662",
+    "project_id": "koinbx-f1213",
+    "storage_bucket": "koinbx-f1213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575313170662:android:6e2e83ced6ad96de2beb27",
+        "android_client_info": {
+          "package_name": "com.vijay.koinbx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVta2kmrpPPLqCUqoDIJtMuE8ZoKcxjjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
